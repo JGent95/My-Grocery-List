@@ -1,0 +1,35 @@
+.list-canned,
+.list-dry,
+.sugar-img {
+  display: inline-block;
+  width: 150px;
+  height: auto;
+  vertical-align: bottom;
+  background-color: silver;
+}
+
+.list-veggies,
+.list-snacks,
+.ice-cream-img {
+  display: inline-block;
+  width: 150px;
+  height: auto;
+  vertical-align: bottom;
+  background-color: silver;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  background-color: brown;
+  padding: 5px;
+  width: 200px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
